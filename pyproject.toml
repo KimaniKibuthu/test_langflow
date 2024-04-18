@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "test-langflow"
+version = "0.1.0"
+description = ""
+authors = ["KimaniKibuthu <32309808+KimaniKibuthu@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.10.11"
+langflow = "^0.6.16"
+langchain-community = "^0.0.33"
+sentence-transformers = "^2.7.0"
+langchain-anthropic = "^0.1.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
