@@ -43,3 +43,7 @@ To use, first clone the repo, then:
     ```bash
     langflow run
     ```	
+
+4. On the UI click the `import` button and upload the `example_rag.json` file that is in the `RAG` folder.
+
+5. Click the spark button to build. Then once dan, you can click the chat button to chat with the document.
